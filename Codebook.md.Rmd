@@ -24,3 +24,9 @@ Part 4 Appropriately labels the data set with descriptive variable names.
 Part 5 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 - Created a second tidy data set
 - Write it into text file
+
+
+About the variables
+x_train, y_train, x_test, y_test, subject_train, subject_test = data from the downloaded files
+x_data, y_data and subject_data = merge of previous data
+features = correct names 
